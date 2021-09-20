@@ -255,6 +255,10 @@ landscape:
             logo: vmware-vsphere.svg
             twitter: https://twitter.com/VMwarevSphere
             crunchbase: https://www.crunchbase.com/organization/vmware
+          - item:
+            name: h
+            logo: 123.svg
+            crunchbase: https://www.crunchbase.com/organization/zuora
       - subcategory:
         name: Container Registry
         items:
