@@ -127,7 +127,7 @@ landscape:
             homepage_url: https://kubeedge.io/en/
             project: incubating
             repo_url: https://github.com/kubeedge/kubeedge
-            logo: kube-edge.svg
+            logo: kube-edge12.svg
             twitter: https://twitter.com/KubeEdge
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             extra:
@@ -136,6 +136,7 @@ landscape:
               artwork_url: https://github.com/cncf/artwork/blob/master/examples/sandbox.md#kubeedge-logos
               mailing_list_url: https://groups.google.com/forum/#!forum/kubeedge
               slack_url: https://kubeedge.slack.com/
+            description: demo logo update
           - item:
             name: LinuxKit
             homepage_url: https://github.com/linuxkit/linuxkit
