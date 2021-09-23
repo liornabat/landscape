@@ -687,12 +687,13 @@ landscape:
             twitter: https://twitter.com/sonatype
             crunchbase: https://www.crunchbase.com/organization/sonatype
           - item:
-            name: Sonobuoy
+            name: Sonobuoy1
             homepage_url: https://sonobuoy.io
             repo_url: https://github.com/vmware-tanzu/sonobuoy
             logo: project-sonobuoy.svg
             twitter: https://twitter.com/projectsonobuoy
             crunchbase: https://www.crunchbase.com/organization/vmware
+            description: test
           - item:
             name: StackHawk
             description: StackHawk helps developers find and fix application security vulnerabilities before they hit production with CI/CD automation.
