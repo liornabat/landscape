@@ -122,6 +122,7 @@ landscape:
             repo_url: https://github.com/loft-sh/kiosk
             logo: kiosk.svg
             crunchbase: https://www.crunchbase.com/organization/loft-labs
+            description: '333'
           - item:
             name: KubeEdge
             homepage_url: https://kubeedge.io/en/
