@@ -82,6 +82,7 @@ landscape:
             extra:
               accepted: '2020-06-23'
               dev_stats_url: https://cnigenie.devstats.cncf.io/
+            description: test
           - item:
             name: Cloudify
             homepage_url: https://cloudify.co
