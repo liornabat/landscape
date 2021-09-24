@@ -176,7 +176,8 @@ landscape:
             repo_url: https://github.com/mistio/mist-ce
             logo: mistio.svg
             crunchbase: https://www.crunchbase.com/organization/mist-io
-            joined: '2021-02-01'
+            joined: '2021-02-03'
+            description: Demo change to test it
           - item:
             name: OpenStack
             homepage_url: https://www.openstack.org/
