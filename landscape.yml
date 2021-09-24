@@ -156,6 +156,7 @@ landscape:
             repo_url: https://github.com/ManageIQ/manageiq
             logo: manage-iq.svg
             crunchbase: https://www.crunchbase.com/organization/manageiq
+            description: '2'
           - item:
             name: Metal3-io
             homepage_url: https://metal3.io/
